@@ -1,0 +1,1 @@
+Animal* a=new Animal(); 
